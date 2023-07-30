@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 for Ziyang Chen
 
 <!--
 **czy1999/czy1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czy1999&show_icons=true&theme=vue-dark)
+- 🌱 I’m currently a Ph.D student in NUDT.
+- 🔭 I’m currently conducting research on LLM and KG.
+- 👯 I’m looking for academic exchange and collaboration.
+- 📫 Email: chenziyangnudt@nudt.edu.cn
+
+
+![Ziyang Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=czy1999&show_icons=true&theme=vue-dark)
